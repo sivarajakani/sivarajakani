@@ -1,16 +1,16 @@
 # **👋 Hello World!, I'm Sivarajakani!**  
-### **Machine Learning Engineer | Full-Stack Developer | Android Developer | Tech Enthusiast**  
+### **Data Scientist | Full-Stack Developer | Android Developer | Tech Enthusiast**  
 
-🔬 Passionate about **Machine Learning, Web Development, and Android**  
+🔬 Passionate about **Deep Learning, Web Development, and Android**  
 💡 Exploring **Deep Learning, Trasnformer, NLP, Computer Vision, and Web Technologies**  
 📚 Love contributing to **Open Source** and sharing knowledge  
 
 ---
 
 ## **🌟 About Me**  
-- 🧠 Experienced in **AI, Deep Learning, and Web Development**  
-- 📊 Worked with **TensorFlow, PyTorch, and ONNX**  
-- 🌍 Built and deployed **ML models on Web, Android, and Backend**  
+- 🧠 Experienced in **ML, Deep Learning, and Web Development**  
+- 📊 Worked with **Keras, PyTorch, and ONNX**  
+- 🌍 Built and deployed **ML models on Web, Android, and Java**  
 - 🔥 Passionate about **optimizing AI models and improving performance**  
 - 📢 Conducted workshops on **Git, Catalyst, and Software Best Practices**  
 
@@ -18,7 +18,7 @@
 
 ## **🛠️ Tech Stack**  
 **Languages**: Python, JavaScript, TypeScript, Kotlin, Java  
-**AI & ML**: TensorFlow, Keras, PyTorch, ONNX, HuggingFace  
+**AI & ML**: Keras, PyTorch, ONNX, HuggingFace  
 **Web Development**: Angular, Rollup, Tomcat, Flask, FastAPI  
 **Android Development**: Gradle, Jetpack Compose, TFLite  
 **Web Scraping**: Playwright, lxml  
@@ -30,7 +30,7 @@
 
 ## **🚀 Projects**  
 
-### **🖼️ Background Removal (U2-Net, MODNet, GFM)**  
+### **🖼️ Background Removal**  
 - Researched & trained **deep learning models** for image background removal  
 - Built **a full-stack web demo** to showcase the model's capabilities  
 - Optimized inference and performance for **Android & Web applications**  
